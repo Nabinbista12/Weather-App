@@ -1,0 +1,1 @@
+This is a practice project built with React and Vite, using a weather API to fetch and display real-time weather data. It demonstrates key React concepts such as component-based architecture, API integration, state management using hooks, and conditional rendering — all within a clean and responsive UI.
